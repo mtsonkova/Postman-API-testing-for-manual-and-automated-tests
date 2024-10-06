@@ -1,1 +1,1 @@
-# SlagLabs-Test-Automation-with-Playwright-and-JavaScript
+# Typescript: The Complete Developer's Guide
